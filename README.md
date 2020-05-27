@@ -1,5 +1,8 @@
 # Golang conference PPT
 
+### 2019
+* 视频: https://www.bilibili.com/video/BV1i4411g7mi?p=9
+
 
 ### 2018
 * [1.1 基于Go构建滴滴核心业务平台的实践.pdf](/2018/1.1%20基于Go构建滴滴核心业务平台的实践.pdf)
